@@ -4,4 +4,6 @@
 
 2-bring_me_home                  Script to jump to the home directory 
 
-3-listfiles                      Script to list files detail
+3-listfiles                      Script to list files detail 
+ 
+4-listmorefiles                  Script for list hiding files 
